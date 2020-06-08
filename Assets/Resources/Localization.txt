@@ -1,0 +1,5 @@
+﻿KEY,Chinese,English
+text1,你好，世界,Hello World!
+text2,哈喽,Hello
+text3,中文,Chinese
+text4,英语,English
